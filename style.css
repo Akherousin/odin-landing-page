@@ -75,6 +75,7 @@ body {
   font-size: 1.8rem;
   color: #e5e7eb;
   margin-bottom: 1.6rem;
+  max-width: 64rem;
 }
 
 .hero-img {
@@ -158,6 +159,7 @@ body {
 }
 
 .quote-container {
+  max-width: 100rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -215,7 +217,7 @@ body {
 }
 
 /********************* 
-*** QUOTE SECTION *****
+*** FOOTER SECTION *****
 *********************/
 
 .footer {
